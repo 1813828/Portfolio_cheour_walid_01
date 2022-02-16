@@ -1,2 +1,2 @@
 #
-De dossier contient les photographies de l'oeuvre Liminal.
+Ce dossier contient les photographies de l'oeuvre Liminal.
