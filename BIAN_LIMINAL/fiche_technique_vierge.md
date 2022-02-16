@@ -8,21 +8,26 @@ Louis-Philippe Rondeau
 2018
 
 ## Nom de l'exposition ou de l'événement
-Arsenal art contemporain
+Arsenal art contemporain.
 
 ## Lieu de mise en exposition
-Aresnal art contemporain
+Aresnal art contemporain.
 
 ## Date de votre visite
-9 février 2022
+9 février 2022.
 
 ## Description de l'oeuvre ou du dispositif multimédia (à composer ou reprendre la description offerte sur le site de l'artiste ou le cartel de l'exposition en citant bien sa source)
 
 ![description_liminal.jpg](photos/description_liminal.jpg)
+Ce texte est tiré du cartel d'exposition Arsenal art contemporain Montréal.
 
 
 
-Explications sur la mise en espace de l'oeuvre ou du dispositif (texte à composer)
+# Explications sur la mise en espace de l'oeuvre ou du dispositif (texte à composer)
+L'oeuvre mets en avant l'intégration de différentes technologies. On y intégrere des jeux de lumières, de sons et d'art graphiques. Les gens traversent un cercle lumineux qui diffuse un stop motion d'eux-mêmes sur un mur. Elle donne l'impression de se téléporter dans un autre univers.
+
+L'oeuvre mets en avant l'intégration de différentes technologies. On y intégrere des jeux de lumières, de sons et d'art graphique.mes 
+
 Liste des composantes et techniques de l'oeuvre ou du dispositif (ex. : réalité virtuelle, projecteurs, caméra USB, anneau lumineux...)
 Liste des éléments nécessaires pour la mise en exposition (ex. : crochets, sac de sable, câbles de soutien...)
 EXPÉRIENCE VÉCUE :
