@@ -1,4 +1,4 @@
 # Dossier croquis
 
 Ce dossier  contient....
-![croquisjpg](photos/croquis.jpg)
+![croquis.jpg](photos/croquis.jpg)
