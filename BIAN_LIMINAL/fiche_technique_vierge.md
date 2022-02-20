@@ -28,7 +28,7 @@ L'oeuvre mets en avant l'intégration de différentes technologies. On y intégr
 
 L'oeuvre mets en avant l'intégration de différentes technologies. On y intégrere des jeux de lumières, de sons et d'art graphique.mes 
 
-##Liste des composantes et techniques de l'oeuvre ou du dispositif 
+## Liste des composantes et techniques de l'oeuvre ou du dispositif 
 
 (ex. : réalité virtuelle, projecteurs, caméra USB, anneau lumineux...)
 
@@ -36,7 +36,7 @@ C'est une installation intéractive qui se compose d'un anneau lumineux en alumi
 
 (ex. : réalité virtuelle, projecteurs, caméra USB, anneau lumineux...)
 Liste des éléments nécessaires pour la mise en exposition (ex. : crochets, sac de sable, câbles de soutien...)
-##EXPÉRIENCE VÉCUE :
+## EXPÉRIENCE VÉCUE :
 ❤️ Ce qui vous a plu, vous a donné des idées et justifications
 
 J'ai apprecié cette expérience. Avoir mélanger l'audio avec le visuel était une bonne idée car on pouvait s'imaginer qu'on se projeter dans une autre dimension. De plus le design avec les lumières autour avait un air futuriste ce qui rendait l'installation plus crédible et extraordinaire.
