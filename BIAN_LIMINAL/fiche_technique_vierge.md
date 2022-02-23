@@ -39,11 +39,12 @@ Liste des éléments nécessaires pour la mise en exposition (ex. : crochets, sa
 ## EXPÉRIENCE VÉCUE :
 ❤️ Ce qui vous a plu, vous a donné des idées et justifications
 
-J'ai apprecié cette expérience. Avoir mélanger l'audio avec le visuel était une bonne idée car on pouvait s'imaginer qu'on se projeter dans une autre dimension. De plus le design avec les lumières autour avait un air futuriste ce qui rendait l'installation plus crédible et extraordinaire.
-Description de votre expérience de l'oeuvre ou du dispositif, de l'interactivité, des gestes à poser, etc.
+J'ai apprecié cette expérience. Avoir mélanger l'audio avec le visuel était une bonne idée car on pouvait s'imaginer qu'on se projeter dans une autre dimension. De plus, le design avec les lumières autour avaient un air futuriste ce qui rendait l'installation plus crédible et extraordinaire.
+ ## Description de votre expérience de l'oeuvre ou du dispositif, de l'interactivité, des gestes à poser, etc.
+ 
 
 ## 🤔 Aspect que vous ne souhaiteriez pas retenir pour vos propres créations ou que vous feriez autrement et justifications
 
-Je pense que j'auai fais plus par contre. Ce qui veut dire que j'aurai rajouter plus de diffusions d'images comme par exemple: l'espace ou un monde incconu. Les sons c'est pareilles j'aurai rajouter beacoup plus pour donner une meilleure expérience.
+Je pense que j'auai fais plus par contre. Ce qui veut dire, que j'aurai rajouter plus de diffusions d'images comme par exemple: l'espace ou un monde incconu.  Pareille pour les sons. j'aurai rajouter beaucoup plus pour donner une meilleure expérience.
 
 Références
