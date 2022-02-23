@@ -36,6 +36,10 @@ L'oeuvre met en avant l'intégration de différentes technologies. On y intègre
 ![anceinte](https://user-images.githubusercontent.com/89608322/155382623-94ed05c8-42bf-44eb-bad3-49f729d19e25.jpeg)
 
 
+![adaptateurs](https://user-images.githubusercontent.com/89608322/155383066-3dd8cf66-0b3c-4845-bed9-781ff24e3391.jpeg)
+
+
+
 
 
 C'est une installation intéractive qui se compose d'un anneau lumineux en aluminium, une caméra USB sur le côté de l'anneau, un projecteur HD pour diffuser les photos en mouvements des gens, divers câbles et adaptateurs audio et video, une paire d'enceintes amplifiées et un écran de projection pour le projeter sur le mur.
