@@ -24,7 +24,7 @@ Ce texte est tiré du cartel d'exposition Arsenal art contemporain Montréal.
 
 
 ## Explications sur la mise en espace de l'oeuvre ou du dispositif (texte à composer)
-L'oeuvre met en avant l'intégration de différentes technologies. On y intègre des jeux de lumière, de sons et d'art graphiques. Les gens traversent un cercle lumineux qui diffuse un stop-motion d'eux-mêmes sur un mur. Elle donne l'impression de se téléporter dans un autre univers.
+L'oeuvre met en avant l'intégration de différentes technologies. On y intègre des jeux de lumière, de sons et d'art graphiques. Les gens traversent un cercle lumineux qui diffuse un stop-motion d'eux-mêmes sur un mur. Elle donne l'impression de se téléporter dans un autre univers. L'installation capte en photos les gens qui traversent le cercle. À partir des projecteurs, on diffuse les photos des gens en noir et blanc sur le mur. 
 ![croquisjpg](photos/croquis.jpg)
 ![installation.jpg](photos/installation.jpg)
 
