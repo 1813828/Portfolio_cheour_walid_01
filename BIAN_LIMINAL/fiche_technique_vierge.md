@@ -30,7 +30,7 @@ L'oeuvre met en avant l'intégration de différentes technologies. On y intègre
 
 ## Liste des composantes et techniques de l'oeuvre ou du dispositif 
 
-
+![projecteur.webp.](photos/projecteur.webp.)
 C'est une installation intéractive qui se compose d'un anneau lumineux en aluminium, une caméra USB sur le côté de l'anneau, un projecteur HD pour diffuser les photos en mouvements des gens, divers câbles et adaptateurs audio et video, une paire d'enceintes amplifiées et un écran de projection pour le projeter sur le mur.
 
 
