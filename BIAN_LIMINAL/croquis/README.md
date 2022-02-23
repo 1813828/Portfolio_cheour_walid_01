@@ -3,4 +3,4 @@
 Ce dossier  contient....
 
 
-![croquis.jpg](photos/croquis.jpg)
+![croquis](photos/croquis.jpg)
