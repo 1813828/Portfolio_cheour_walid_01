@@ -1,6 +1,6 @@
 # Dossier croquis
 
-Ce dossier  contient....
+Ce dossier contient le croquis de l'installation.
 
 
-![croquis](photos/croquis.jpg)
+
