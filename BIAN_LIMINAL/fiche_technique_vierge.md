@@ -62,6 +62,6 @@ D'ailleurs, l'oeuvre était une installation bien pensée, car l'anneau ajoutait
 
 ## 🤔 Aspect que vous ne souhaiteriez pas retenir pour vos propres créations ou que vous feriez autrement et justifications
 
-Je pense que j'aurai fait plus par contre. Ce qui veut dire que j'aurai rajouté plus de diffusions d'images exemple: l'espace ou un monde inconnu.  Pareille pour les sons. J’aurai rajouté beaucoup plus pour donner une meilleure expérience. 
+Je pense que j'aurai fait plus par contre. Ce qui veut dire que j'aurai rajouté plus de diffusions d'images exemple: l'espace ou un monde inconnu.  Pareille pour les sons. J’aurai rajouté beaucoup plus pour donner une meilleure expérience. L'immersion serait plus intense car on serait mieux plongé dans l'univers surtôut si on utilisait une trame sonore.
 
 Références
