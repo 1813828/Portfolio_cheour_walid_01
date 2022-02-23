@@ -38,6 +38,9 @@ L'oeuvre met en avant l'intégration de différentes technologies. On y intègre
 
 ![adaptateurs](https://user-images.githubusercontent.com/89608322/155383066-3dd8cf66-0b3c-4845-bed9-781ff24e3391.jpeg)
 
+![oray-ecran-de-projection-motorise-hcm4r-150x200](https://user-images.githubusercontent.com/89608322/155383937-f6350378-3bf4-4462-bbdb-3a070c5c9dca.jpeg)
+
+
 
 
 
