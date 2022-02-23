@@ -33,6 +33,8 @@ L'oeuvre met en avant l'intégration de différentes technologies. On y intègre
 
 ![camerausb](https://user-images.githubusercontent.com/89608322/155382201-d0a2b07c-9b4a-4296-80e3-14f1ef3e9a6d.jpeg)
 
+![anceinte](https://user-images.githubusercontent.com/89608322/155382623-94ed05c8-42bf-44eb-bad3-49f729d19e25.jpeg)
+
 
 
 
