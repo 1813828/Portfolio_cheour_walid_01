@@ -19,7 +19,7 @@
  
 
  # Description de l'oeuvre ou du dispositif multimédia (à composer ou reprendre la description offerte sur le site de l'artiste ou le cartel de l'exposition en citant bien sa source)
- ![l'en deça.jpg](photos
+ ![photos](photos/l'en_de
 
  Explications sur la mise en espace de l'oeuvre ou du dispositif (texte à composer)
 
