@@ -20,7 +20,7 @@
 
  # Description de l'oeuvre ou du dispositif multimédia 
  ![len_deça](photos/len_deça.jpg)
- Ce texte est tiré du cartel d'exposition Bechard Hudon à la place des arts.
+ ## Ce texte est tiré du cartel d'exposition Bechard Hudon à la Salle Alfred-Pellan de la maison des arts de Laval.
 
  # Explications sur la mise en espace de l'oeuvre ou du dispositif (texte à composer)
  
