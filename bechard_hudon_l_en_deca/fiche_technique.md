@@ -48,8 +48,15 @@
 
  Liste des éléments nécessaires pour la mise en exposition (ex. : crochets, sac de sable, câbles de soutien...)
  Pour que le l'expérience soit remarquable, il fallait obligatoirement que la carte de sons ansi que tous les amplificateurs fonctionnet bien . Sinon l'expérience ne serai pas immersif.
+ 
+  ![composantes](photos/composantes.jpg)
+  
+  ![ampli](photos/ampli.jpg)
+  
+  
 
  Expérience vécue : Pour ma part j'ai tout de même apprecié. J'ai adoré l'aspect imemrsif qu'il avait à travers l'oeuvre. C'est comme si on rentrait dans un monde inconnu avec des sons un peu partout. On ne sait pas où on est. On s'imagine justement le lieux où se trouve. C'était l'intention des artiste d'ailleurs à nous faire imaginer.
+ 
 
  Description de votre expérience de l'oeuvre ou du dispositif, de l'interactivité, des gestes à poser, etc.
 
