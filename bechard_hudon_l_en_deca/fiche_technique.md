@@ -38,7 +38,7 @@
  
  un Hydrophone et géophone qui enregistres les sons des echos de la mer et de la terre proche de Sept-île et Kegaska.
  
-  ![](photos/carte_de_son.jpg)
+  ![Hydrophon_geo](photos/Hydrophon_geo.jpg)
 
  
  Évidemment il ya des fils qui de brachments qui permettent de brancher le tout avec une extension.
