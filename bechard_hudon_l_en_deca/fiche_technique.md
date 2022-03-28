@@ -20,6 +20,7 @@
 
  # Description de l'oeuvre ou du dispositif multimédia 
  ![len_deça](photos/len_deça.jpg)
+ Ce texte est tiré du cartel d'exposition Bechard Hudon à la place des arts.
 
  # Explications sur la mise en espace de l'oeuvre ou du dispositif (texte à composer)
  
