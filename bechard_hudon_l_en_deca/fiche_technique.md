@@ -43,6 +43,8 @@
  
  Évidemment il ya des fils qui de brachments qui permettent de brancher le tout avec une extension.
  
+   ![extension](photos/extension.jpg)
+ 
 
  Liste des éléments nécessaires pour la mise en exposition (ex. : crochets, sac de sable, câbles de soutien...)
  Pour que le l'expérience soit remarquable, il fallait obligatoirement que la carte de sons ansi que tous les amplificateurs fonctionnet bien . Sinon l'expérience ne serai pas immersif.
