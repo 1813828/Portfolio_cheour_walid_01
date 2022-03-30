@@ -26,7 +26,7 @@
  
  ## L'en decà est une oeuvre immersive qui est composée de plusieurs surfaces murales fesant sortir des sons d'eau ou d'echo d'une cavité. Cette création est d'ailleurs interactive vu qu'elle laisse aux utilisateurs de toucher  et de sentir la vibration des murs. Son but est de laisser aux  spectateurs s'imaginer l'environnement dans lequel ils se perçoivent. D'ailleurs, les sons  sont projettes hors des murs en hauteur afin que l'expérience soit plus immersif. Ils sortiraient d'un peu partout. Ces mêmes sonorités seraient  amplifiées pour qu'elles paraissent plus fortes et  claires possible. De plus, elles sont enregistrées sous l'eau et les artistes ont utilisé un géophone pour capter les vibrations du sol. Donc, ce sont des bruits qui ne sont pas à la première écoute évidente à identifier. Elle laisse donc le mystère aux spectateurs.
  
- voici l'oeuvre en question.
+ ## voici l'oeuvre en question.
   ![oeuvre](photos/oeuvre.jpg)
 
  # Liste des composantes et techniques de l'oeuvre ou du dispositif 
