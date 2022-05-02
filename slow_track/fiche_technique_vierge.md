@@ -25,6 +25,12 @@ SLOW TRACK est  une oeuvre visuel immersif qui utilise l'animation 3d pour diffu
 
 
 # Liste des composantes et techniques de l'oeuvre ou du dispositif (ex. : réalité virtuelle, projecteurs, caméra USB, anneau lumineux...)
+## l'oeuvre utilise du matériel sonore pour gérer le son ainsi qu'un système de projection relier à l'ordinateur de marque apple.
+
+![materiel](photos/materiel.jpg)
+
+
+
 
 
 Liste des éléments nécessaires pour la mise en exposition (ex. : crochets, sac de sable, câbles de soutien...)
