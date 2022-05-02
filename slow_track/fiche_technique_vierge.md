@@ -29,6 +29,10 @@ SLOW TRACK est  une oeuvre visuel immersif qui utilise l'animation 3d pour diffu
 
 ![materiel](photos/materiel.jpg)
 
+## elle utilise aussi une carte de son de marque Presonus pour émettre le son hors des hauts parleurs.
+
+![materiel](photos/materiel.jpg)
+
 
 
 
