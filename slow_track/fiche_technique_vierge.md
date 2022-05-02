@@ -20,11 +20,13 @@
 # Description de l'oeuvre ou du dispositif multimédia
 ![informations](photos/informations.jpg)
 
-#  Explications sur la mise en espace de l'oeuvre ou du dispositif (texte à composer)
+##  Explications sur la mise en espace de l'oeuvre ou du dispositif (texte à composer)
+SLOW TRACK est  une oeuvre visuel immersif qui utilise l'animation 3d pour diffuser des séquences videos en ralenti. Les images qui passent ont pour but d'exprimer l'ancien cinema classic où l'on voyait autrfois des sequences videos très lentes dans des films. D'ailleurs, ces images font aussi la représentation d'espaces ancien et anachronique. Ces images ressemblent au réel, mais elles ne le sont pas. Ce sont des milliers de fichier d'images collés ensemble qui forment l'objet ou les décors dans la scene. Cette video s'accompagne de sons très silencieux qui accompagnent les séquences videos.
 
 
+# Liste des composantes et techniques de l'oeuvre ou du dispositif (ex. : réalité virtuelle, projecteurs, caméra USB, anneau lumineux...)
 
-Liste des composantes et techniques de l'oeuvre ou du dispositif (ex. : réalité virtuelle, projecteurs, caméra USB, anneau lumineux...)
+
 Liste des éléments nécessaires pour la mise en exposition (ex. : crochets, sac de sable, câbles de soutien...)
 EXPÉRIENCE VÉCUE :
 Description de votre expérience de l'oeuvre ou du dispositif, de l'interactivité, des gestes à poser, etc.
