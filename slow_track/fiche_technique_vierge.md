@@ -33,6 +33,12 @@ SLOW TRACK est  une oeuvre visuel immersif qui utilise l'animation 3d pour diffu
 
 ![carteson](photos/carteson.jpg)
 
+## L'oeuvre dispose aussi des systèmes de sons comme des enceintes pour projeter le son
+
+![hautparleur](photos/hautparleur.jpg)
+
+
+
 
 
 
