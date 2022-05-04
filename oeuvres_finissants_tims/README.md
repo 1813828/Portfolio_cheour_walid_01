@@ -26,7 +26,7 @@ ce texte est tiré du site https://tim-montmorency.com/2022/projets/L-horloge-de
 
 # Liste des composantes et techniques de l'oeuvre ou du dispositif (ex. : réalité virtuelle, projecteurs, caméra USB, anneau lumineux...)
 ## l'oeuvre  utilise 3 projecteurs pour pouvoir projecter et diffuser les séquences d'animations  sur les toiles 
-
+![projecteur](photos/projecteur.jpg)
 
 Liste des éléments nécessaires pour la mise en exposition (ex. : crochets, sac de sable, câbles de soutien...)
 EXPÉRIENCE VÉCUE :
