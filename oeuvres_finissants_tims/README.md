@@ -28,14 +28,18 @@ ce texte est tiré du site https://tim-montmorency.com/2022/projets/L-horloge-de
 ## l'oeuvre  utilise 3 projecteurs pour pouvoir projecter et diffuser les séquences d'animations  sur les toiles.
 ![projecteur.jpg](medias/projecteur.jpg)
 
-## L'oeuvre contient aussi  spotlights accrochés au plafond ainsi que des fils de branchements qui se relient se relissent tous via un ordinateur.
+## L'oeuvre contient aussi  spotlights accrochés au plafond ainsi que des fils de branchements qui se relient tous via un ordinateur. Il y aussi des cables de branchements qui sont sur le plancher.  
 ![fil.jpg](medias/fil.jpg)
+![cables.jpg](medias/cables.jpg)
 
  # Liste des éléments nécessaires pour la mise en exposition (ex. : crochets, sac de sable, câbles de soutien...)
  ## Évidemment, ils étaient vraiment nécessaire que l'oeuvre contient des projecteurs car sinon  il n'y aurai aucune projection sur les toiles et on aurait pas pu voir les séquences d'animations.Il est aussi nécessaire qu'il y ai les câbles de sons pour que le son puisse sortir des hauts-parleurs.  De plus , le quadriophonique est nécessaire vu que les enrigstrements de sons doivent se faire sur un logiciel sonore. 
  
-EXPÉRIENCE VÉCUE :
-Description de votre expérience de l'oeuvre ou du dispositif, de l'interactivité, des gestes à poser, etc.
-❤️ Ce qui vous a plu, vous a donné des idées et justifications
-🤔 Aspect que vous ne souhaiteriez pas retenir pour vos propres créations ou que vous feriez autrement et justifications
-Références
+ # EXPÉRIENCE VÉCUE : 
+ ## J'ai vrm apprecié l'intéractivité des aguilles et du téléphone avec les séquences videos d'animations. J'ai trouvé ça vraiment immersif et on se sentait comme si on rentrait dans un tout nouveau univers. l'oeuvre était simple et efficace. J'ai aussi apprecié comment tous les dispositifs s'enclenchaient simultanément.
+ 
+# Ce qui vous a plu, vous a donné des idées et justifications
+## Comme je l'ai dis c'était l'intéractivité, l'immersion et le côté créatif artistique des animations que j'ai vraiment apprecié. Car tous était jouré en même temps et c'est ce qui rendait l'expérience agréable.
+
+# Aspect que vous ne souhaiteriez pas retenir pour vos propres créations ou que vous feriez autrement et justifications
+## je ne penses pas qu'il y ait  de point négatifes dans le projet. C'était ben fait. Peut-être que j'aurai par contre  varier le style graphique des animations, car ils avaient tous le même syles. J'aurai apprecier qu'ils soient différents.
