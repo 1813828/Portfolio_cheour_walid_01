@@ -10,5 +10,11 @@
 # 3 choix : Chronofrage
 ## Mon troisième choix est finalement chronofrage. J'ai vraiment aimé le visuel. Le côté créatif des aniamtions étaient vraiment beaux à apprecier ! Les couleurs ainsi que les jeux de lumières étaient très beaux à voir. Je le met en troisième choix car c'était un des meilleurs ateliersque je l'ai plus apprecier. L'intreactivité était correct mais j'aurai peut-être apprecier que ca soit mieux. Sinon c'était le côté artisitque des illustrations que j'ai le plus aimé.
 
-# 4 choix :chère Sasha
- ## J'ai aimé le côté immersif de l'atelier 
+# 4 : choix :chère Sasha
+## J'ai aimé le côté immersif de l'atelier. Je trouve que c'était quand même un belle expérience. On apprenait la vie de Sasha. Les jeux de lumières ainsi que les séquences vidéos étaient dans l'ensemble bien réussis. Cependant, on avait parfois de la misère à comprendre ce qu'on devait faire et avec quoi on devait réagir. l'orde d'intéraction était un eu compliqué à comprendre dès le départ. De plus, le son n'était pas fort. Donc, on avait de la misère à comprendre ce qu'on devait faire ou  comprendre l'histoire. Sinon l'immersion était assez agréable.
+ 
+ # 5 : 3 minutes
+ ## Dans l'ensemble l'idée était intéressante. J'ai aimé utilisé la vr dans cet atelier. J'ai tout de même apprecié le concept de cette exposition. Pour l'intéraction, c'était quand même bien. Par contre, j'aurai aimé que le côté immersif sois plus poussé. Il aurait fallu rajouter un peu plus de contenu. Mais sinon c'était correct.
+ 
+ #6 : Distorsion Collective
+ C'est mon dernier choix car c'est lui que j'ai le moins apprecié. L'atelier parfois surhauffé et nous laissé pas l'utilser. Il fallait attendre. C'était très long à essayer vu qu'il fallait patienter que le monde finissait l'expérience. Pour le côté et immersif c'était bien, mais comme le précédent je trouve que le contenu était un peu vide. Il manquait plus de nivaux. Pour l'intéraction c'était correct mais je m'attendais à plus pour de la Vr. 
