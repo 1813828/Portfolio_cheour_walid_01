@@ -16,5 +16,5 @@
  # 5 : 3 minutes
  ## Dans l'ensemble l'idée était intéressante. J'ai aimé utilisé la vr dans cet atelier. J'ai tout de même apprecié le concept de cette exposition. Pour l'intéraction, c'était quand même bien. Par contre, j'aurai aimé que le côté immersif sois plus poussé. Il aurait fallu rajouter un peu plus de contenu. Mais sinon c'était correct.
  
- #6 : Distorsion Collective
+ # 6 : Distorsion Collective
  ## C'est mon dernier choix car c'est lui que j'ai le moins apprecié. L'atelier parfois surhauffé et nous laissé pas l'utilser. Il fallait attendre. C'était très long à essayer vu qu'il fallait patienter que le monde finissait l'expérience. Pour le côté et immersif c'était bien, mais comme le précédent je trouve que le contenu était un peu vide. Il manquait plus de nivaux. Pour l'intéraction c'était correct mais je m'attendais à plus pour de la Vr. 
