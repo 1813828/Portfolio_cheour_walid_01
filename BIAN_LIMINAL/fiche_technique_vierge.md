@@ -5,10 +5,10 @@
 ## Louis-Philippe Rondeau
 
 # Année de réalisation
-2018
+## 2018
 
-## Nom de l'exposition ou de l'événement
-##Arsenal art contemporain.
+# Nom de l'exposition ou de l'événement
+## Arsenal art contemporain.
 
 # Lieu de mise en exposition
 ## Aresnal art contemporain.
@@ -66,4 +66,3 @@ Ce texte est tiré du cartel d'exposition Arsenal art contemporain Montréal.
 
 ## Je pense que j'aurai fait plus par contre. Ce qui veut dire que j'aurai rajouté plus de diffusions d'images exemple: l'espace ou un monde inconnu.  Pareille pour les sons. J’aurai rajouté beaucoup plus pour donner une meilleure expérience. L'immersion serait plus intense car on serait mieux plongé dans l'univers surtôut si on utilisait une trame sonore.
 
-Références
