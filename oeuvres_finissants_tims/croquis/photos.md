@@ -1,1 +1,2 @@
 
+![croquis](photos/informations.png)
