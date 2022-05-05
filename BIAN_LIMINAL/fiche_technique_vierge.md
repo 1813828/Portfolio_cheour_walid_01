@@ -51,17 +51,19 @@ L'oeuvre met en avant l'intégration de différentes technologies. On y intègre
 C'est une installation intéractive qui se compose d'un anneau lumineux en aluminium, une caméra USB sur le côté de l'anneau, un projecteur HD pour diffuser les photos en mouvements des gens, divers câbles et adaptateurs audio et video, une paire d'enceintes amplifiées et un écran de projection pour le projeter sur le mur.
 
 
-## EXPÉRIENCE VÉCUE :
-❤️ Ce qui vous a plu, vous a donné des idées et justifications
+# EXPÉRIENCE VÉCUE :
 
-J'ai apprécié cette expérience. Avoir mélangé l'audio avec le visuel était une bonne idée, car on pouvait s'imaginer qu'on se projeter dans une autre dimension. De plus, le design avec les lumières autour avait un air futuriste ce qui rendait l'installation plus crédible et extraordinaire.
+# Ce qui vous a plu, vous a donné des idées et justifications
 
- ## Description de votre expérience de l'oeuvre ou du dispositif, de l'interactivité, des gestes à poser, etc.
-D'ailleurs, l'oeuvre était une installation bien pensée, car l'anneau ajoutait une bonne touche futuriste.  L'interaction aussi était réussie. Ça insistait les gens à essayer et apprécier l'oeuvre pour sa composition artistique et technique. On devait rentrer dans l'anneau qui diffusait une photo en noir et blanc de nous dans un projecteur sur le mur.
+## J'ai apprécié cette expérience. Avoir mélangé l'audio avec le visuel était une bonne idée, car on pouvait s'imaginer qu'on se projeter dans une autre dimension. De plus, le design avec les lumières autour avait un air futuriste ce qui rendait l'installation plus crédible et extraordinaire.
+
+ ## Description de votre expérience 
+ 
+# D'ailleurs, l'oeuvre était une installation bien pensée, car l'anneau ajoutait une bonne touche futuriste.  L'interaction aussi était réussie. Ça insistait les gens à essayer et apprécier l'oeuvre pour sa composition artistique et technique. On devait rentrer dans l'anneau qui diffusait une photo en noir et blanc de nous dans un projecteur sur le mur.
  
 
-## 🤔 Aspect que vous ne souhaiteriez pas retenir pour vos propres créations ou que vous feriez autrement et justifications
+# Aspect que vous ne souhaiteriez pas retenir pour vos propres créations ou que vous feriez autrement et justifications
 
-Je pense que j'aurai fait plus par contre. Ce qui veut dire que j'aurai rajouté plus de diffusions d'images exemple: l'espace ou un monde inconnu.  Pareille pour les sons. J’aurai rajouté beaucoup plus pour donner une meilleure expérience. L'immersion serait plus intense car on serait mieux plongé dans l'univers surtôut si on utilisait une trame sonore.
+## Je pense que j'aurai fait plus par contre. Ce qui veut dire que j'aurai rajouté plus de diffusions d'images exemple: l'espace ou un monde inconnu.  Pareille pour les sons. J’aurai rajouté beaucoup plus pour donner une meilleure expérience. L'immersion serait plus intense car on serait mieux plongé dans l'univers surtôut si on utilisait une trame sonore.
 
 Références
