@@ -1,8 +1,8 @@
 # Titre de l'oeuvre ou de la réalisation
 ## Liminal, 2018
 
-## Nom de l'artiste ou de la firme
-Louis-Philippe Rondeau
+# Nom de l'artiste ou de la firme
+## Louis-Philippe Rondeau
 
 ## Année de réalisation
 2018
@@ -10,21 +10,21 @@ Louis-Philippe Rondeau
 ## Nom de l'exposition ou de l'événement
 Arsenal art contemporain.
 
-## Lieu de mise en exposition
-Aresnal art contemporain.
+# Lieu de mise en exposition
+## Aresnal art contemporain.
 
-## Date de votre visite
-9 février 2022.
+# Date de votre visite
+## 9 février 2022.
 
-## Description de l'oeuvre ou du dispositif multimédia (à composer ou reprendre la description offerte sur le site de l'artiste ou le cartel de l'exposition en citant bien sa source)
+# Description de l'oeuvre ou du dispositif multimédia (à composer ou reprendre la description offerte sur le site de l'artiste ou le cartel de l'exposition en citant bien sa source)
 
 ![description_liminal.jpg](photos/description_liminal.jpg)
 Ce texte est tiré du cartel d'exposition Arsenal art contemporain Montréal.
 
 
 
-## Explications sur la mise en espace de l'oeuvre ou du dispositif (texte à composer)
-L'oeuvre met en avant l'intégration de différentes technologies. On y intègre des jeux de lumière, de sons et d'art graphiques. Les gens traversent un cercle lumineux qui diffuse un stop-motion d'eux-mêmes sur un mur. Elle donne l'impression de se téléporter dans un autre univers. L'installation capte en photos les gens qui traversent le cercle. À partir des projecteurs, on diffuse les photos des gens en noir et blanc sur le mur. 
+# Explications sur la mise en espace de l'oeuvre ou du dispositif (texte à composer)
+## L'oeuvre met en avant l'intégration de différentes technologies. On y intègre des jeux de lumière, de sons et d'art graphiques. Les gens traversent un cercle lumineux qui diffuse un stop-motion d'eux-mêmes sur un mur. Elle donne l'impression de se téléporter dans un autre univers. L'installation capte en photos les gens qui traversent le cercle. À partir des projecteurs, on diffuse les photos des gens en noir et blanc sur le mur. 
 ![croquisjpg](photos/croquis.jpg)
 ![installation.jpg](photos/installation.jpg)
 
@@ -48,7 +48,7 @@ L'oeuvre met en avant l'intégration de différentes technologies. On y intègre
 
 
 
-C'est une installation intéractive qui se compose d'un anneau lumineux en aluminium, une caméra USB sur le côté de l'anneau, un projecteur HD pour diffuser les photos en mouvements des gens, divers câbles et adaptateurs audio et video, une paire d'enceintes amplifiées et un écran de projection pour le projeter sur le mur.
+## C'est une installation intéractive qui se compose d'un anneau lumineux en aluminium, une caméra USB sur le côté de l'anneau, un projecteur HD pour diffuser les photos en mouvements des gens, divers câbles et adaptateurs audio et video, une paire d'enceintes amplifiées et un écran de projection pour le projeter sur le mur.
 
 
 # EXPÉRIENCE VÉCUE :
