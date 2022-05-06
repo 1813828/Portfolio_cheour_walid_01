@@ -46,6 +46,9 @@ ce texte est tiré du site https://tim-montmorency.com/2022/projets/L-horloge-de
 ## Quand on rentre au local. On aperçoit une horloge qui se tient sur un piédestal ainsi qu'un téléphone à côté. On aperçoit aussi autour du local des toiles blanches sur les murs. Le local est d'ailleurs sombre dès le départ.Lorsque l'utilisateur interagit avec les aiguilles de l'horloge, des animations s'ouvrent en même temps que la musique et des sons.Le local n'est plus obscur et devient lumineux. À chaque fois qu'on interagit avec les aiguilles, les jeux de lumière changent ainsi que la musique, les sons, et les animations.À la fin, on aperçoit une projection de nous-mêmes sur les toiles.À la toute fin, lorsque l'exposition est finie, ça s'affiche le nom des créateurs et du projet.
 
 
+![atelier.jpg](atelier/fil.jpg)
+
+
 
 # Liste des composantes et techniques de l'oeuvre ou du dispositif (ex. : réalité virtuelle, projecteurs, caméra USB, anneau lumineux...)
 
