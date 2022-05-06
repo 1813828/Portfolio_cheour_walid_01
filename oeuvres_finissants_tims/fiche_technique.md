@@ -48,6 +48,7 @@ ce texte est tiré du site https://tim-montmorency.com/2022/projets/L-horloge-de
 
 ![atelier.jpg](medias/atelier.jpg)
 
+![atelier_alimentation.jpg](medias/atelier_alimentation.jpg)
 
 
 # Liste des composantes et techniques de l'oeuvre ou du dispositif (ex. : réalité virtuelle, projecteurs, caméra USB, anneau lumineux...)
