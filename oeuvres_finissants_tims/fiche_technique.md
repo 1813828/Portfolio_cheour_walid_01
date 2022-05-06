@@ -69,6 +69,7 @@ ce texte est tiré du site https://tim-montmorency.com/2022/projets/L-horloge-de
 
 ## Évidemment, il était nécessaire que l'oeuvre contienne des projecteurs.Sinon,  il n'y aurait aucune projection sur les toiles et on n’aurait pas pu voir les séquences d'animations.Il est aussi nécessaire qu'il y ait les câbles de sons pour que le son puisse sortir des haut-parleurs.  De plus , le quadriphonique est nécessaire vu que les enregistrements de sons doivent se faire sur un logiciel sonore.
 
+![00347137_10_FRONT](https://user-images.githubusercontent.com/89608322/167053846-2c046775-c57d-48eb-af55-abee0467452f.png)
 
 
 # EXPÉRIENCE VÉCUE :
