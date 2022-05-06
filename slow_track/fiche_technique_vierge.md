@@ -39,8 +39,18 @@
  
  ## Pour que l'oeuvre soit entièrement fonctionnelle, il fallait qu'elle dispose nécessairement de tout le matériel technique qu'on a cité tout au  début. De plus , il fallait nécerrairement qu'il y ait des câbles de branchements HDMI,USB, vga,des adaptateurs et d'un fond blanc.
  
- ![quadriphonique](photos/quadriphonique.jpg)
+
+ ![quadriphonique](https://user-images.githubusercontent.com/89608322/167049808-821b9e69-8da6-4c86-929e-9ca7fbda1d4d.jpg)
  
+![999999-6922052926401](https://user-images.githubusercontent.com/89608322/167051053-97dfb031-d269-4efc-97ff-8f066248fe82.jpg)
+ 
+![HDMI-Connector](https://user-images.githubusercontent.com/89608322/167051127-a035c991-e2e0-4b30-ad39-b9fc5dc50f15.jpg)
+
+![ex_lg_14801](https://user-images.githubusercontent.com/89608322/167051991-55be8a89-0e1f-4c39-8226-6a91e69e4071.jpg)
+
+
+![téléchargement](https://user-images.githubusercontent.com/89608322/167051219-575a08e9-eb4f-4970-9221-c40d044cca30.jpg)
+
 # EXPÉRIENCE VÉCUE :
 
  ## C'était une expérience visuelle et auditive assez calme. Les gens s'assoient devant la diffusion numérique et apprécient les diffusions vidéo au ralenti de lieux et d'objet.Cependant, je trouve qu'il y aurait fallu ajouter plus de détails et plus d'animations durant les diffusions. Le contenu était assez vide. L'espace auquel j'étais était neutre. J'aurai apprécié elles s'animent en même temps que les vidéos exemple: jeux de lumières et de sons.
