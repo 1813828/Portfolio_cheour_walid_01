@@ -68,6 +68,9 @@ ce texte est tiré du site https://tim-montmorency.com/2022/projets/L-horloge-de
 # Liste des éléments nécessaires pour la mise en exposition (ex. : crochets, sac de sable, câbles de soutien...)
 
 ## Évidemment, il était nécessaire que l'oeuvre contienne des projecteurs.Sinon,  il n'y aurait aucune projection sur les toiles et on n’aurait pas pu voir les séquences d'animations.Il est aussi nécessaire qu'il y ait les câbles de sons pour que le son puisse sortir des haut-parleurs.  De plus , le quadriphonique est nécessaire vu que les enregistrements de sons doivent se faire sur un logiciel sonore.
+![ex_lg_14801](https://user-images.githubusercontent.com/89608322/167051991-55be8a89-0e1f-4c39-8226-6a91e69e4071.jpg)
+
+![téléchargement (1)](https://user-images.githubusercontent.com/89608322/167054378-a58ca80e-7acf-457b-8fe3-848f39689899.jpg)
 
 ![00347137_10_FRONT](https://user-images.githubusercontent.com/89608322/167053846-2c046775-c57d-48eb-af55-abee0467452f.png)
 ![quadriphonique](https://user-images.githubusercontent.com/89608322/167049808-821b9e69-8da6-4c86-929e-9ca7fbda1d4d.jpg)
