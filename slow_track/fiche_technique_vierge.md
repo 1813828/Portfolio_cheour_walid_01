@@ -42,7 +42,7 @@
  ## Pour que l'oeuvre soit entièrement fonctionnelle, il fallait qu'elle dispose nécessairement de tout le matériel technique qu'on a cité tout au  début. De plus , il fallait nécerrairement qu'il y ait des câbles de branchements HDMI,USB, vga,des adaptateurs et d'un fond blanc.
  
 
- ![quadriphonique](https://user-images.githubusercontent.com/89608322/167049808-821b9e69-8da6-4c86-929e-9ca7fbda1d4d.jpg)
+ 
  
 ![999999-6922052926401](https://user-images.githubusercontent.com/89608322/167051053-97dfb031-d269-4efc-97ff-8f066248fe82.jpg)
  
