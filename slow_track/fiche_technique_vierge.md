@@ -50,4 +50,4 @@
 # Aspect que vous ne souhaiteriez pas retenir pour vos propres créations ou que vous feriez autrement et justifications
 
 ## Pour mes prochaines créations, je préférerai mieux ne pas prendre l'idée du ralenti. Car ça rendrait mes oeuvres trop lentes et banales à contempler.
-Références
+
