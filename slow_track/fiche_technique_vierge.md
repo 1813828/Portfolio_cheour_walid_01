@@ -1,7 +1,8 @@
-# L'objectif de mon orale ?
+#  Sujet Posé
+## Lors de la semaine du 15 avril 2022, je suis allé visité l'oeuvre      pour le cadre du cours de documentation en multimédia. Après avoir bien analyser l'oeuvre, je suis prêt à vous faire connaître certains aspecsts de l'oeuvre et sa signification pour l'exposé de fin d'année que nous presentions. Mes objectifs sont simples. Les buts sont de vous faire instruire et vous faire expliquer ce que j'ai appris et compris sur une oeuvre en multimédia. Ensuit, c'est de vous faire découvrir et se supporter ceretains artistes underground dans l'univers digital.
 
-##  Instruire et expliquer aux autres ce que j'ai appris et compris sur une oeuvre en multimédia!
-## C'est d'ailleurs une manière de supporter cerains artistes underground dans l'univers digital.
+# Sujet divisé
+##  Pour cela, les aspects qui seront abordés durant la présentation sont les informations sur l'oeuvre et le lieu de l'exposition, La description de mon oeuvre ainsi  
 
 # Les aspects qui seront abordés ? 
 
