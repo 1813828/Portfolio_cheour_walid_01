@@ -15,9 +15,9 @@ Slow Track
 
 ![277598682_495516992268850_3659233849473910356_n (1)](https://user-images.githubusercontent.com/89608322/167052720-7edb8c73-2f62-4dc3-a678-ae1125879569.jpg)
 
-# Lieu de mise en exposition
+# Lieu de mise en exposition :
 Complexe de Gaspé, 5445 de Gaspé Avenue, Gallery Electra
-# Date de votre visite
+# Date de votre visite :
 15 avril 2022
 # Description de l'oeuvre ou du dispositif multimédia ![informations](photos/informations.jpg)
  # Explications sur la mise en espace de l'oeuvre ou du dispositif
