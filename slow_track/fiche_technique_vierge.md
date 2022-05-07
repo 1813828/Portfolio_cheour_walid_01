@@ -20,6 +20,7 @@ Complexe de Gaspé, 5445 de Gaspé Avenue, Gallery Electra
 # Date de votre visite 
 15 avril 2022
 # Description de l'oeuvre ou du dispositif multimédia ![informations](photos/informations.jpg)
+Ce texte est tiré du cartel d'exposition Slow track à la Galley Electra de Montreal.
  # Explications sur la mise en espace de l'oeuvre ou du dispositif
  slow track est  une oeuvre visuelle immersive qui utilise l'animation 3d pour diffuser des séquences vidéo en ralenti. Les images qui passent ont pour but d'exprimer l'ancien cinéma classique où l'on voyait autrefois des séquences vidéo très lentes dans des films. D'ailleurs, ces images font aussi la représentation d'espaces ancienne et anachronique. Ces images ressemblent au réel, mais elles ne le sont pas. Ce sont des milliers de fichiers d'images collés ensemble qui forment l'objet ou les décors dans la scène. Cette vidéo s'accompagne de sons très silencieux qui accompagnent les séquences vidéo.Pour cela, l'oeuvre se place dans une petite salle.La séquence vidéo se situe en face des spectateurs qui la voit. il y a une carte de son placé sur une table et des hauts-parleurs qui sont les deux à l'étroit de la video.
 # Liste des composantes et techniques de l'oeuvre ou du dispositif 
