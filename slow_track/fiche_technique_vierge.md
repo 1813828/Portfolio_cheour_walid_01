@@ -15,9 +15,9 @@ Slow Track
 
 ![277598682_495516992268850_3659233849473910356_n (1)](https://user-images.githubusercontent.com/89608322/167052720-7edb8c73-2f62-4dc3-a678-ae1125879569.jpg)
 
-# Lieu de mise en exposition :
+# Lieu de mise en exposition 
 Complexe de Gaspé, 5445 de Gaspé Avenue, Gallery Electra
-# Date de votre visite :
+# Date de votre visite 
 15 avril 2022
 # Description de l'oeuvre ou du dispositif multimédia ![informations](photos/informations.jpg)
  # Explications sur la mise en espace de l'oeuvre ou du dispositif
@@ -44,7 +44,7 @@ L'oeuvre utilise un projecteur numérique pour diffuser les séquences vidéo su
 ![HDMI-Connector](https://user-images.githubusercontent.com/89608322/167051127-a035c991-e2e0-4b30-ad39-b9fc5dc50f15.jpg)
 ![ex_lg_14801](https://user-images.githubusercontent.com/89608322/167051991-55be8a89-0e1f-4c39-8226-6a91e69e4071.jpg)
 ![téléchargement](https://user-images.githubusercontent.com/89608322/167051219-575a08e9-eb4f-4970-9221-c40d044cca30.jpg)
-# EXPÉRIENCE VÉCUE :
+# EXPÉRIENCE VÉCUE 
  C'était une expérience visuelle et auditive assez calme. Les gens s'assoient devant la diffusion numérique et apprécient les diffusions vidéo au ralenti de lieux et d'objet.Cependant, je trouve qu'il y aurait fallu ajouter plus de détails et plus d'animations durant les diffusions. Le contenu était assez vide. L'espace auquel j'étais était neutre. J'aurai apprécié elles s'animent en même temps que les vidéos exemple: des jeux de lumières et de sons.
 # Ce qui vous a plu vous a donné des idées et justifications
  J'ai aimé comment les objets et les lieux étaient faits. On aurait cru vraiment du réel alors qu'en fait ce n'était que de la 3d. J'étais vraiment impressionné du résultat. Ça m'a donné des idées sur les conceptions de 3d que je pourrai execer plus tard si je décide d'en faire plus tard.
