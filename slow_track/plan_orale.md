@@ -1,8 +1,8 @@
 # introduction
-mots clés = - visite
-            - oeuvre
-            - cours
-            - objectif = instruire, expliquer, supporter artistes
+mots clés =  visite
+             oeuvre
+             cours
+            objectif = instruire, expliquer, supporter artistes
             
 aspects= informations, lieu , description 
            
