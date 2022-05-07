@@ -37,6 +37,8 @@ elle utilise aussi une carte de son de marque Presonus pour émettre le son hors
 
 L'oeuvre utilise un projecteur numérique pour diffuser les séquences vidéo sur un fond blanc.
 
+voiçi un croquis de l'oeuvre en question.
+![croquis](photos/croquis.jpg)
 ![projecteur](photos/projecteur.jpg)
 # Liste des éléments nécessaires pour la mise en exposition 
  Pour que l'oeuvre soit entièrement fonctionnelle, il fallait qu'elle dispose nécessairement de tout le matériel technique qu'on a cité tout au  début. De plus , il fallait nécerrairement qu'il y ait des câbles de branchements HDMI,USB, vga,des adaptateurs et d'un fond blanc.
