@@ -1,10 +1,10 @@
 # introduction
-mots clés =  visite
+mots clés =  visite durant la semaine du 15 avril
              oeuvre
-             cours
+             pour le cadre du cours de documentation en multimédia
             objectif = instruire, expliquer, supporter artistes
             
-aspects= informations, lieu , description 
+aspects= informations, lieu de mise en exposition , description 
            
 - artiste
 -année
@@ -18,6 +18,9 @@ aspects= informations, lieu , description
 -aimé
 - pas retenir
 -lien 
+
+
+
 
  
  # conclusion 
